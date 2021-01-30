@@ -1,1 +1,1 @@
-# hackaton-resiliente-saturdays-ai
+# hackathon-resilient-saturdays-ai
